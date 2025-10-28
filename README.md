@@ -4,7 +4,6 @@
 ### option one
 run the script
 ### option two
-
-'''python
+```python
 from main.py import * as dice
 dice.roll()

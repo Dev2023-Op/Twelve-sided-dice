@@ -5,6 +5,6 @@
 run the script
 ### option two
 
-"""
-  jsjxm
-"""
+'''python
+from main.py import * as dice
+dice.roll()
